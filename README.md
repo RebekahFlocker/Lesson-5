@@ -1,2 +1,2 @@
-# Lesson-5
-Lesson 5 Assignment : Hello React &amp; Project Setup with Vite
+# Lesson-6
+Lesson 6 Assignment : React Components, JSX, and Lists
